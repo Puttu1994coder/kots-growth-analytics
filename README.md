@@ -97,22 +97,24 @@ Key Findings
 
 Results
 
-| Page | Views | Engagement | CVR% | Decision |
+Page_Name	Views	Active_Users	Avg_Engagement_Sec	Key_Events	CVR_Percent	Decision 
+Furnished Studio Flat for Rent in Mahadevpura | No Hidden Charges	95681	68346	61.3	27557	28.8	✅ Increase Budget
+Furnished 1 BHK Flat for Rent in Hennur | No Hidden Charges	9468	7991	35.1	2510	26.51	✅ Increase Budget
+Furnished 2 BHK Flat for Rent in Whitefield | No Hidden Charges	8265	6964	37.6	1695	20.51	✅ Increase Budget
+Furnished Studio Flat for Rent in Bellandur | No Hidden Charges	70519	48975	49.4	13525	19.18	✅ Increase Budget
+Discover Flats for Rent in Whitefield, Bangalore | KOTS	70345	18138	10.3	741	1.05	❌ Reduce Budget
+Furnished 1 BHK Flat for Rent in Mahadevpura | No Hidden Charges	7032	5964	28.8	1379	19.61	✅ Increase Budget
+Kots Serein in Bellandur | Rental Gated Apartment Living	6256	2536	77.6	96	1.53	🔧 Fix CTA on Page
+Furnished 1 BHK Flat for Rent in Whitefield | No Hidden Charges	5764	4459	38.6	1347	23.37	✅ Increase Budget
+Kots Aube in Hennur | Rental Gated Apartment Living	57321	20398	9.4	281	0.49	❌ Reduce Budget
+Studio & 1 BHK Furnished Flats for Rent in Whitefield | Kots Bien	5109	2395	60.7	70	1.37	🔧 Fix CTA on Page
+Upgrade to premium living at KOTS Rental Gated Apartments	42637	15156	57.5	8432	19.78	✅ Increase Budget
+Studio, 1 BHK & 2 BHK Furnished Flats for Rent in Whitefield | Kots Neuf	32387	8732	9.7	122	0.38	❌ Reduce Budget
+Flats/Apartments for Rent in Bangalore | Live Premium	29877	13112	48.1	395	1.32	🔧 Fix CTA on Page
+Furnished 1 BHK Flat for Rent in Sarjapur | No Hidden Charges	28392	22670	47.7	5755	20.27	✅ Increase Budget
+Studio Furnished Flats for Rent in Koramangala | Kots Rive	24116	8830	17.6	163	0.68	❌ Reduce Budget
+<img width="1703" height="494" alt="image" src="https://github.com/user-attachments/assets/db91de5b-1b2a-41dc-9aa9-da8e1fbd65f2" />
 
-| Furnished Studio Flat - Mahadevpura | 95,681 | 61 sec | 28.8% | ✅ Increase Budget |
-| Furnished 1 BHK - Hennur | 9,468 | 35 sec | 26.5% | ✅ Increase Budget |
-| Furnished 1 BHK - Whitefield | 5,764 | 38 sec | 23.4% | ✅ Increase Budget |
-| Furnished 2 BHK - Whitefield | 8,265 | 37 sec | 20.5% | ✅ Increase Budget |
-| Furnished 1 BHK - Sarjapur | 28,392 | 47 sec | 20.3% | ✅ Increase Budget |
-| Upgrade to Premium Living | 42,637 | 57 sec | 19.8% | ✅ Increase Budget |
-| Furnished 1 BHK - Mahadevpura | 7,032 | 28 sec | 19.6% | ✅ Increase Budget |
-| Kots Serein - Bellandur | 6,256 | 77 sec | 1.53% | 🔧 Fix CTA First |
-| Studio & 1 BHK - Whitefield Bien | 5,109 | 60 sec | 1.37% | 🔧 Fix CTA First |
-| Flats/Apartments - Bangalore | 29,877 | 48 sec | 1.32% | 🔧 Fix CTA First |
-| Discover Flats - Whitefield | 70,345 | 10 sec | 1.05% | ❌ Reduce Budget |
-| Kots Aube - Hennur | 57,321 | 9 sec | 0.49% | ❌ Reduce Budget |
-| Studio 1BHK 2BHK - Whitefield Neuf | 32,387 | 9 sec | 0.38% | ❌ Reduce Budget |
-| Studio - Koramangala | 24,116 | 17 sec | 0.68% | ❌ Reduce Budget |
 
  Insight
 1. "No Hidden Charges" pages consistently outperform**  
