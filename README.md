@@ -89,11 +89,10 @@ Key Findings
 
  Decision Framework
 
-| CVR% | Engagement | Decision |
-|---|---|---|
-| Above 15% | Above 30 sec | ✅ Increase Budget |
-| Above 30 sec | Below 5% CVR | 🔧 Fix CTA First |
-| Below 5% | Below 15 sec | ❌ Reduce Budget |
+CVR%        Engagement           Decision 
+Above 15%   Above 30 sec     ✅ Increase BudgetBelow 
+5%          Above30 sec      🔧 Fix CTA First
+Below 5%    Below 15 sec     ❌ Reduce Budget
 
 Results
 
